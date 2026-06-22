@@ -3,6 +3,7 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=coffeescript&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
+![Quarkus](https://img.shields.io/badge/quarkus-%234695EB.svg?style=for-the-badge&logo=quarkus&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/mongo-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![AWS](https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white) 
 ![Redis](https://img.shields.io/badge/redis-%23FF4438.svg?style=for-the-badge&logo=redis&logoColor=white) 
@@ -14,6 +15,7 @@
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 
 </p>
