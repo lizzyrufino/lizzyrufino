@@ -1,6 +1,8 @@
 <h1 align="center">👾 Welcome 👾</h1>
 <h3 align="center"> Backend software developer 🖥️ </h3>
 
+<img src="https://github.com/Krauzy/Krauzy/blob/main/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=coffeescript&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![Quarkus](https://img.shields.io/badge/quarkus-%234695EB.svg?style=for-the-badge&logo=quarkus&logoColor=white) 
@@ -16,6 +18,8 @@
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+<img src="https://github.com/Krauzy/Krauzy/blob/main/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 
 </p>
